@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Liren
 
-AI-focused Full-Stack Engineer | MSc AI for Science @ NUS
+Product Engineer @ RED | MSc AI for Science @ NUS | AI & Full-Stack Engineer
 
 ---
 
