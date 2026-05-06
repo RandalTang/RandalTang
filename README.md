@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Liren
 
-Product Engineer @ RED | MSc AI for Science @ NUS | AI & Full-Stack Engineer
+Product Engineer @ RED(xiaohongshu) | MSc AI for Science @ NUS | AI & Full-Stack Engineer
 
 ---
 
